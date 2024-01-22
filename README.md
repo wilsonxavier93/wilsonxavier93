@@ -15,6 +15,7 @@
   <img align="center" alt="GitHub" width="30px" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   <img align="center" alt="Figma" width="30px" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Photoshop" width="30px" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+  <img align="center" alt="vs code" width="30px" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
       
 </div>
  
